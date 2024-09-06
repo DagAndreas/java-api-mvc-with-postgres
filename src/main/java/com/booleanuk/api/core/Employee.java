@@ -10,7 +10,7 @@ import lombok.ToString;
 @AllArgsConstructor
 @ToString
 public class Employee {
-	private int id; //pk
+	private long id; //pk
 	private String name;
 	private String jobName;
 	private String salaryGrade;
