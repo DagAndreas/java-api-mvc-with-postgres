@@ -1,4 +1,4 @@
-package com.booleanuk.api.core;
+package com.booleanuk.api.core.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
